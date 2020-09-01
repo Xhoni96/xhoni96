@@ -9,7 +9,7 @@ Team player with good communication skills (proven in other jobs that I’ve wor
 Adaptable in any work environment. 
 Experienced in building web apps on Pure HTML + CSS + JavaScript. 
 
-Skills:  HTML5 / CSS3 / Sass / Javascript /
+Skills:  HTML5 / CSS3 / Sass / Javascript / SQL
 
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning ReactJs 
