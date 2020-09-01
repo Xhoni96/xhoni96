@@ -21,11 +21,11 @@ Skills:  HTML5 / CSS3 / Sass / Javascript /
 
 Some of my projects are :
 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/forkify.png' alt='Forkify App' height='250'>](https://forkify-test.netlify.app/) 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/estate.png' alt='Estate App' height='250'>](https://yourestate.netlify.app/) 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/natours.png' alt='Natours App' height='250'>](https://travelnature.netlify.app/) 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/omnifood.png' alt='OmniFood App' height='250'>](https://omnitaste.netlify.app/)
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/trillo.png' alt='Trillo App' height='250'>](https://trilloflex.netlify.app/)
+[<img src='https://github.com/Xhoni96/xhoni96/blob/master/forkify.png' alt='Forkify App' height='240'>](https://forkify-test.netlify.app/) 
+[<img src='https://github.com/Xhoni96/xhoni96/blob/master/estate.png' alt='Estate App' height='240'>](https://yourestate.netlify.app/) 
+[<img src='https://github.com/Xhoni96/xhoni96/blob/master/natours.png' alt='Natours App' height='240'>](https://travelnature.netlify.app/) 
+[<img src='https://github.com/Xhoni96/xhoni96/blob/master/omnifood.png' alt='OmniFood App' height='240'>](https://omnitaste.netlify.app/)
+[<img src='https://github.com/Xhoni96/xhoni96/blob/master/trillo.png' alt='Trillo App' height='240'>](https://trilloflex.netlify.app/)
 
 
 
