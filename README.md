@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Johnn. I'm a Front-End Developer
-Design and Development
-[Design and Development](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png?raw=true)
+
+
+![](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
 
 
 Here are some ideas to get you started:
