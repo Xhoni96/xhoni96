@@ -21,7 +21,7 @@ Skills:  HTML5 / CSS3 / Sass / Javascript /
 
 Some of my projects are :
 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/forkify.png' target="blank" alt='Forkify App' height='200'>](https://forkify-test.netlify.app/) 
+[<img src='https://github.com/Xhoni96/xhoni96/blob/master/forkify.png' target="_blank" alt='Forkify App' height='200'>](https://forkify-test.netlify.app/) 
 [<img src='https://github.com/Xhoni96/xhoni96/blob/master/estate.png' alt='Estate App' height='200'>](https://yourestate.netlify.app/) 
 [<img src='https://github.com/Xhoni96/xhoni96/blob/master/natours.png' alt='Natours App' height='200'>](https://travelnature.netlify.app/) 
 [<img src='https://github.com/Xhoni96/xhoni96/blob/master/omnifood.png' alt='OmniFood App' height='200'>](https://omnitaste.netlify.app/)
