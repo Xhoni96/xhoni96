@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Javascript.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything.
-- 📫 How to reach me: ...[Email](mailto:Xhonikomini96@gmail.com), [Linkedln](https://www.linkedin.com/in/xhonikomini/).
+- 📫 How to reach me: ...[Email](mailto:Xhonikomini96@gmail.com),   [Linkedln](https://www.linkedin.com/in/xhonikomini/).
 - 😄 Pronouns: ...he/him
 
 
