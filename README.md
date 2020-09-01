@@ -1,3 +1,9 @@
+
+[Baner](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
+
+
+
+
 ### Hi there 👋
 My name is Johnn. I'm a Front-End Developer
 
