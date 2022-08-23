@@ -4,28 +4,20 @@
 ![Front-End Developer](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
 
 I'm a Front-end developer passionate about technology and learning new things every day. 
-I enjoy creating responsive web apps in addition to being user friendly. 
-Team player with good communication skills (proven in other jobs that I’ve worked). 
-Adaptable in any work environment. 
-Experienced in building web apps on Pure HTML + CSS + JavaScript. 
+
+Experienced in building web apps on Pure HTML + CSS + JavaScript/ReactJs. 
 
 Skills:  HTML5 / CSS3 / Sass / Javascript / SQL
 
-- 🔭 I’m currently working on Javascript 
-- 🌱 I’m currently learning ReactJs 
+- 🔭 I’m currently working on Javascript/ReactJs 
+
 - 📫 How to reach me: Email: Xhonikomini96@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xhoni96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xhonikomini/)  
 
 
-Some of my Live projects are :
 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/forkify.png' target="_blank" alt='Forkify App' height='300'>](https://forkify-test.netlify.app/) 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/estate.png' target="_blank" alt='Estate App' height='300'>](https://yourestate.netlify.app/) 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/natours.png' target="_blank" alt='Natours App' height='300'>](https://travelnature.netlify.app/) 
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/omnifood.png' target="_blank" alt='OmniFood App' height='300'>](https://omnitaste.netlify.app/)
-[<img src='https://github.com/Xhoni96/xhoni96/blob/master/trillo.png' target="_blank" alt='Trillo App' height='300'>](https://trilloflex.netlify.app/)
 
 
 
