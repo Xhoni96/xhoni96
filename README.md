@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Johnn
 #### I'm a passionate **Software Developer** specializing in **Frontend Development**.
-![Software Developer](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
+
 
 I'm a Software developer passionate about technology and learning new things every day. 
 
