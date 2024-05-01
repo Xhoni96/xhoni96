@@ -7,7 +7,7 @@ Experienced in building web apps on HTML + CSS + JavaScript/ReactJs.
 
 Technologies i've worked with:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | Typescript | Material-UI | shadcn | Jotai | Pixi.js | Radix UI | Node/Express
 
-- 🔭 I’m currently working with Javascript/ReactJs/Typescript 
+- 🔭 Currently working with Javascript/ReactJs/Typescript 
 
 - 📫 How to reach me: Email: Xhonikomini96@gmail.com 
 
