@@ -1,15 +1,15 @@
 
 ### Hi there 👋, my name is Johnn
-#### I'm a Front-End Developer
-![Front-End Developer](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
+#### I'm a Software Developer 
+![Software Developer](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
 
-I'm a Front-end developer passionate about technology and learning new things every day. 
+I'm a Software developer passionate about technology and learning new things every day. 
 
-Experienced in building web apps on Pure HTML + CSS + JavaScript/ReactJs. 
+Experienced in building web apps on HTML + CSS + JavaScript/ReactJs. 
 
-Skills:  HTML5 / CSS3 / Sass / Javascript / SQL
+Skills:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | 
 
-- 🔭 I’m currently working on Javascript/ReactJs 
+- 🔭 I’m currently working with Javascript/ReactJs 
 
 - 📫 How to reach me: Email: Xhonikomini96@gmail.com 
 
