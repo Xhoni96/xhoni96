@@ -5,7 +5,7 @@
 
 Experienced in building web apps on HTML + CSS + JavaScript/ReactJs. 
 
-Skills:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | Typescript
+Technologies i've worked with:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | Typescript | Material-UI | shadcn | Jotai | Pixi.js | Radix UI | Node/Express
 
 - 🔭 I’m currently working with Javascript/ReactJs/Typescript 
 
