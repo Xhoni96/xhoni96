@@ -3,8 +3,6 @@
 #### I'm a passionate **Software Developer** specializing in **Frontend Development**.
 
 
-I'm a Software developer passionate about technology and learning new things every day. 
-
 Experienced in building web apps on HTML + CSS + JavaScript/ReactJs. 
 
 Skills:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | Typescript
