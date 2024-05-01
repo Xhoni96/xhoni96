@@ -1,15 +1,15 @@
 
 ### Hi there 👋, my name is Johnn
-#### I'm a Software Developer 
+#### I'm a passionate **Software Developer** specializing in **Frontend Development**.
 ![Software Developer](https://github.com/Xhoni96/xhoni96/blob/master/XHONI%20KOMINI.png)
 
 I'm a Software developer passionate about technology and learning new things every day. 
 
 Experienced in building web apps on HTML + CSS + JavaScript/ReactJs. 
 
-Skills:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | 
+Skills:  HTML5 | CSS3 | Sass | Javascript | SQL | React | Next.js | Redux | Typescript
 
-- 🔭 I’m currently working with Javascript/ReactJs 
+- 🔭 I’m currently working with Javascript/ReactJs/Typescript 
 
 - 📫 How to reach me: Email: Xhonikomini96@gmail.com 
 
